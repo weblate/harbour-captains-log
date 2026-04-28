@@ -130,7 +130,7 @@
     <message>
         <location filename="../qml/components/DatePickerCombo.qml" line="14"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation>Date</translation>
     </message>
     <message>
         <location filename="../qml/components/DatePickerCombo.qml" line="16"/>
